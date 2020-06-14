@@ -1,10 +1,10 @@
 public class Maths {
-    public boolean isEven(int liczba) {
-        return liczba % 2 == 0;
+    public boolean isEven(int number) {
+        return number % 2 == 0;
     }
 
-    public boolean isOdd(int liczba) {
-        return liczba % 2 != 0;
+    public boolean isOdd(int number) {
+        return number % 2 != 0;
     }
 
     public double circleField(double radius) {
